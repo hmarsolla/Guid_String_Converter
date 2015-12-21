@@ -1,0 +1,28 @@
+﻿<Window x:Class="Guid_String.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Guid_String"
+        mc:Ignorable="d"
+        Title="Guid_String Converter" Height="350" Width="525">
+    <Grid Background="#FFDCDADA">
+        <StackPanel Orientation="Vertical" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <StackPanel Orientation="Vertical">
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Input:" VerticalAlignment="Center" Width="40" />
+                    <TextBox Name="txtInput" Width="300" FontSize="16" Margin="5" PreviewTextInput="txtInput_PreviewTextInput" GotFocus="txtInput_GotFocus"  />
+                </StackPanel>
+                <StackPanel Orientation="Horizontal">
+                    <TextBlock Text="Output:" VerticalAlignment="Center" Width="40" />
+                    <TextBox Name="txtOutput" Width="300" FontSize="16" Margin="5" IsReadOnly="True"/>
+                </StackPanel>
+                <Button Name="btConvert" Content="Convert" Height="30" Width="100" Margin="5" Click="btConvert_Click" IsDefault="True"/>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <RadioButton Name="rbGtS" Content="GUID to String64" Margin="10" IsChecked="True" GroupName="group1"></RadioButton>
+                <RadioButton Name="rbStG" Content="String64 to GUID" Margin="10" GroupName="group1"></RadioButton>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

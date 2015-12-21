@@ -1,0 +1,14 @@
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\bin\Debug\Guid_String.exe.config
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\bin\Debug\Guid_String.exe
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\bin\Debug\Guid_String.pdb
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String.csprojResolveAssemblyReference.cache
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\App.g.cs
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String_MarkupCompile.cache
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String_MarkupCompile.lref
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String.g.resources
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String.Properties.Resources.resources
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String.csproj.GenerateResource.Cache
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String.exe
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\Guid_String.pdb
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\MainWindow.g.cs
+c:\users\heitor.marsolla\documents\visual studio 2015\Projects\Guid_String\Guid_String\obj\Debug\MainWindow.baml
